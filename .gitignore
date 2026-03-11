@@ -1,0 +1,5 @@
+node_modules/
+build/
+public/models/
+.env
+.DS_Store
